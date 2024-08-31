@@ -1,3 +1,2 @@
 serpList = list(("Boa", "Pitón", "Culebra venenosa", "Víbora Rayada"))
-print(serpList) 
-
+print(serpList[0:4])
